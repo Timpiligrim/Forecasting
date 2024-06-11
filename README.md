@@ -1,1 +1,1 @@
-![README](https://github.com/Timpiligrim/Forecasting/assets/150591569/8eb385ae-455e-4e4e-871e-c2caaa5aceb3)
+![README](https://github.com/Timpiligrim/Forecasting/assets/150591569/0bef1aea-1cea-4310-b605-9ddad7bcf69a)
